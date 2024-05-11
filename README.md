@@ -1,14 +1,8 @@
 ## Hi, there!
 
-📖 I'm a developer based in Italy.
+📖 I'm a student developer based in Italy.
 
-- I mainly write code in:
-  - C/C++
-  - Rust
-  - Go
-  - Python
-  - Bash
-  - Vimscript
+- 💻 I mainly write code in **C/C++**, **Rust**, **Go**, **Python**, **Bash**, **Vimscript**
 - 🌱 I’m currently learning Go and Rust
 - 👯 I’m looking for someone to collaborate with me
 - 📫 You can reach me [here](https://walker84837.github.io)
