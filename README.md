@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-- 💻 I primarily code in **Rust**, **Java/Scala**, **Go**, but I also know **C/C++**, **Python**, **Bash**, and **Vimscript**.
+- 💻 I primarily code in **Rust**, **Java/Scala**, **Go**, but I also know **C/C++**, **Python**, **Bash**, and **Lua** (for Neovim).
 - 🌱 Experienced in **Rust**, learning **Scala**.
 - 👯 Always open to collaborations!
 - 📫 Reach me at **[my website](https://walker84837.github.io)**
