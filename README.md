@@ -11,7 +11,7 @@
 - 🌱 Experienced in **Rust** and **Java**.
 - 👯 Always open to receive contributions!
 - 📫 Reach me at [my website](https://winlogon.org).
-- 🏔️ I'm also on *[Codeberg](https://codeberg.org/winlogon)*.
+- 🏔️ I'm also on [Codeberg](https://codeberg.org/winlogon).
 - I also make plugins in my free time at [WinSMP](https://github.com/WinSMP)
 
 ---
